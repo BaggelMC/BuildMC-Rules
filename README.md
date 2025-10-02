@@ -16,7 +16,7 @@ The bot fetches the raw markdown files to display them in Discord, so updates he
 1. Create a branch or fork.
 2. Edit the relevant Markdown file.
 3. Submit a pull request for review.
-4. Once approved, merge into `main`.
+4. Once approved, merge into `master`.
 
 > ⚠️ Only team members should edit these files directly.
 
