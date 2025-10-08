@@ -1,7 +1,14 @@
-## 🌐 Allgemeine Regeln (gelten auf dem gesamten BuildMC Netzwerk)
+## 🌐 **Allgemeine Regeln – BuildMC Netzwerk**
 
-👉 **[Hier klicken für das vollständige Regelwerk](https://docs.google.com/document/d/1YsPHTnvyh0vOTfUETpPASUIXZfwSQbAKQJRJrJYX7Og/)**  
-Diese Regeln gelten **immer**, unabhängig vom Projekt. Bitte sorgfältig durchlesen!
+> ⚠️ **Diese Regeln gelten immer – unabhängig vom Projekt!**
+> Bitte lies sie sorgfältig durch, bevor du spielst.
+
+---
+
+## 🚨 **📜 Vollständiges Regelwerk**
+
+🎯 **👉 [HIER KLICKEN, UM DAS KOMPLETTE REGELWERK ZU LESEN](https://docs.google.com/document/d/1YsPHTnvyh0vOTfUETpPASUIXZfwSQbAKQJRJrJYX7Og/)** 🎯
+*(Pflichtlektüre für alle Spieler – Verstöße werden nicht entschuldigt!)*
 
 ---
 
