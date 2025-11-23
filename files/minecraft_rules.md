@@ -7,7 +7,7 @@
 
 ## 🚨 **📜 Vollständiges Regelwerk**
 
-🎯 **👉 [HIER KLICKEN, UM DAS KOMPLETTE REGELWERK ZU LESEN](https://docs.google.com/document/d/1YsPHTnvyh0vOTfUETpPASUIXZfwSQbAKQJRJrJYX7Og/)** 🎯
+🎯 **👉 [HIER KLICKEN, UM DAS KOMPLETTE REGELWERK ZU LESEN](https://baggel.de/projects/buildmc/rules/)** 🎯
 *(Pflichtlektüre für alle Spieler – Verstöße werden nicht entschuldigt!)*
 
 ---
