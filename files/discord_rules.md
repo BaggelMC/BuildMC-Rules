@@ -9,7 +9,7 @@ Diese Regeln gelten in **allen Kanälen und Plattformen**, die zum Projekt gehö
   Jegliche Form von Belästigung, Beleidigung, Rassismus, Antisemitismus, Radikalität oder Sexismus - auch als „Witz“ - ist **strengstens untersagt**.
 
 - 📢 **Kein Spam oder Werbung**:  
-  Spam, Flooding oder Werbung ist **nur in <#1167820248527949882> erlaubt**.
+  Spam ist nicht erlaubt. Werbung ist **nur in <#1167820248527949882> erlaubt**.
 
 - 👮 **Moderation & Anweisungen**:  
   Folge den Anweisungen des Teams. Diskussionen über Verwarnungen oder Strafen gehören in den Support.
